@@ -1,0 +1,3 @@
+game.py|7 col 1| from constants import BLACK, MOVE_TIME
+game.py|29 col 1| clock.tick(MOVE_TIME)
+constants.py|14 col 1| MOVE_TIME = 5
